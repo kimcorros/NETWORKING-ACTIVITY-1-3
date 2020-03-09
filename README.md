@@ -2,4 +2,6 @@
 
 
 
-TO DOWNLOAD: Click lang nang naas upper-right na button.
+TO DOWNLOAD: Click lang nang naas upper-right na button (clone or download) 
+
+Choose "Download ZIP"
